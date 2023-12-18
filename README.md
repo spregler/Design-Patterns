@@ -1,7 +1,7 @@
 # Design-Patterns
 This repo includes reusable design pattern examples presented in the book, *Design Patterns: Elements of Reusable Object-Oriented Software*.
 ## Catalog of Design Patterns
-* __Abstract Factory__: Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+* __Abstract Factory__: <br> Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
 * __Adapter__: Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn’t otherwise because of incompatible interfaces.
 * __Bridge__: Decouple an abstraction from its implementation so that the two can vary independently.
 * __Builder__: Separate the construction of a complex object from its representation so that the same construction process can create different representations.
