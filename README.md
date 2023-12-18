@@ -23,7 +23,7 @@ This repo includes reusable design pattern examples presented in the book, *Desi
 * __State__: <br> 
 * __Strategy__: <br> 
 * __Template Method__: <br> 
-* __Visitor__: <br> ß
+* __Visitor__: <br>
 ## Chapter 1 Notes:
 * __Class vs Interface Inheritance__: <br>
 * __Inheritance vs Composition__: <br>
