@@ -25,7 +25,7 @@ This repo includes reusable design pattern examples presented in the book, *Desi
 * __Template Method__: <br> Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses redefine certain steps of an algorithm without changing the algorithm’s structure.
 * __Visitor__: <br> Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates.
 ## Chapter 1 Notes:
-* __Class vs Interface Inheritance__: <br>
+__Class vs Interface Inheritance__: <br>
 * An objects class defines how the object is implemented; in contrast, an object's type only refers to its interface, the set of requests to which it can respond.
 * Class inheritance defines an object's implementation in terms of another object's implementation.
 * Interface inheritance (Subtyping) describes when an object can be used in place of another.
@@ -33,5 +33,5 @@ This repo includes reusable design pattern examples presented in the book, *Desi
 1. Clients remain unaware of the specific types of objects they use, as long as the objects adhere to the interface that clients expect.
 2. Clients remain unaware of the classes that implement these objects. Clients only know about the abstract class(es) defining the interface.
 * Creational patterns ensure that your system is written in terms of interfaces, not implementations.
-* __Inheritance vs Composition__: <br>
-* __Inheritance vs Parameterized Types__: <br>
+__Inheritance vs Composition__: <br>
+__Inheritance vs Parameterized Types__: <br>
