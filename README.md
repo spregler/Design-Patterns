@@ -35,4 +35,6 @@ __Class vs Interface Inheritance__: <br>
 * Creational patterns ensure that your system is written in terms of interfaces, not implementations. <br>
 ---
 __Inheritance vs Composition__: <br>
+---
 __Inheritance vs Parameterized Types__: <br>
+---
