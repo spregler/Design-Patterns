@@ -33,5 +33,6 @@ __Class vs Interface Inheritance__: <br>
 1. Clients remain unaware of the specific types of objects they use, as long as the objects adhere to the interface that clients expect.
 2. Clients remain unaware of the classes that implement these objects. Clients only know about the abstract class(es) defining the interface.
 * Creational patterns ensure that your system is written in terms of interfaces, not implementations. <br>
+---
 __Inheritance vs Composition__: <br>
 __Inheritance vs Parameterized Types__: <br>
