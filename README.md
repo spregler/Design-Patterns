@@ -29,7 +29,7 @@ __Class vs Interface Inheritance__: <br>
 * An objects class defines how the object is implemented; in contrast, an object's type only refers to its interface, the set of requests to which it can respond.
 * Class inheritance defines an object's implementation in terms of another object's implementation.
 * Interface inheritance (Subtyping) describes when an object can be used in place of another.
-* There are two benefits to manipulating objects in terms of the interface defined by abstract classes: <br>
+* There are two benefits to manipulating objects in terms of the interface defined by abstract classes:
 1. Clients remain unaware of the specific types of objects they use, as long as the objects adhere to the interface that clients expect.
 2. Clients remain unaware of the classes that implement these objects. Clients only know about the abstract class(es) defining the interface.
 * Creational patterns ensure that your system is written in terms of interfaces, not implementations. <br>
